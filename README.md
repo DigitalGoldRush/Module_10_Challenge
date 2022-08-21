@@ -11,7 +11,7 @@
   - ### Pandas
 ### Evaluate crypto performance over different periods
 ### Techniques used:
-  - ### Data Normilization with Standard Scaler
+  - ### Data Normalization with Standard Scaler
   - ### Clustering with K-Means & PCA
   - ### HV PLot for Comparative Visualizations
 ---
