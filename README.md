@@ -48,10 +48,16 @@ $ pip install jupyterlab
 ```
 $ pip install notebook
 ```
-### 2. Voila can be installed with the mamba or conda package manager:
+### 2. SciKit can be installed with pip:
   ```
-mamba install -c conda-forge voila
+$ pip install -U scikit-learn
+
 ```
+  - ### Or using the conda command
+ ```
+$ conda create -n sklearn-env -c conda-forge scikit-learn
+$ conda activate sklearn-env
+  ```
 ### 3. To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
 ```
 $ import pandas
@@ -60,7 +66,7 @@ $ import pandas
   ```
  conda install -c pyviz hvplot
 ``` 
-   ### Or using PyPI
+   - ### Or using PyPI
 ```
 pip install hvplot
 ```
