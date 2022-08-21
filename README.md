@@ -1,22 +1,19 @@
 # Module_10_Challenge
 
-## Build a Web Application that allows an investor to analyze an ETF for passive investing.
+## Unsupervised Machine Learning: A novel approach to investment portfolios based on cryptocurrencies.
+
 ---
+![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module_10_Challenge/blob/main/Resources/guerrillabuzz-crypto-pr-p9DzBzWhMls-unsplash.jpg)
 
-![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module-7-Challenge/blob/main/man%20with%20modern%20computer.jpeg)
-
-### Building a financial database & web app using:
-  - ### SQL
+### Building a crypto-based financial prototype using:
+  - ### Jupyter Notebook
   - ### Python
-  - ### Voila Library 
-### To analyze the performance of a hypothetical fintech ETF.
-  
+  - ### Pandas
+### Will cluster cryptocurrencies by:
+  - ### Performance over different periods
 ### Deliverables will be in a Jupyter notebook containing:
   - ### Analysis of the ETF data that a SQL database stores
   - ### Professionally styled and formated interactive visualizations 
-  
-### To interact with completed code click button
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DigitalGoldRush/Module-7-Challenge/main)
 ---
 
 ## Technology Used
