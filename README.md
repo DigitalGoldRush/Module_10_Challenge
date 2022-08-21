@@ -9,11 +9,11 @@
   - ### Jupyter Notebook
   - ### Python
   - ### Pandas
-### Will cluster cryptocurrencies by:
-  - ### Performance over different periods
-### Deliverables will be in a Jupyter notebook containing:
-  - ### Analysis of the ETF data that a SQL database stores
-  - ### Professionally styled and formated interactive visualizations 
+### Evaluate crypto performance over different periods
+### Techniques used:
+  - ### Data Normilization with Standard Scaler
+  - ### Clustering with K-Means & PCA
+  - ### HV PLot for Comparative Visualizations
 ---
 
 ## Technology Used
@@ -26,9 +26,8 @@
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 [<img alt="DjangoREST" src="https://img.shields.io/badge/PyData-hvPlot-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://pypi.org/project/python-dotenv/)
-  
-[![voila server badge](https://img.shields.io/badge/Using-Voila-9cf)](https://voila.readthedocs.io/en/stable/using.html)
 
+[<img alt="DjangoREST" src="https://img.shields.io/badge/scikit-learn-f6b26b?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://scikit-learn.org/stable/user_guide.html)
   
 [<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 
